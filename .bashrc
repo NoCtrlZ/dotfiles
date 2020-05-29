@@ -13,8 +13,12 @@ alias gst="git status"
 alias gco="git checkout"
 alias gc="git commit"
 alias gb="git branch"
+alias ga="git add"
+alias gaa="git add ."
 alias gbd="git branch -d"
 alias gbD="git branch -D"
+alias gpo="git pull origin"
+alias gps="git push origin"
 
 # k8s
 alias kb="kubectl"
